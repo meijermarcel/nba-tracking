@@ -9,7 +9,7 @@ export const members = [
 	},
 	{
 		name: 'Bob',
-		teams: ['Milwuakee', 'Cleveland', 'Minnesota', 'Houston', 'Chicago']
+		teams: ['Milwaukee', 'Cleveland', 'Minnesota', 'Houston', 'Chicago']
 	},
 	{
 		name: 'Tom',
