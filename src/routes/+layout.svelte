@@ -75,7 +75,7 @@
 </style>
 
 <nav>
-    <div class="title">NFL 2023</div>
+    <div class="title">NBA 2023</div>
 </nav>
 
 <div class="container">

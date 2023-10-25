@@ -1,29 +1,26 @@
 export const members = [
 	{
 		name: 'Marcel',
-		teams: ['Buffalo', 'Detroit', 'Miami', 'Indianapolis', 'Tampa Bay', 'Chicago']
+		teams: ['Boston', 'New York', 'Sacramento', 'Indiana', 'Detroit']
 	},
 	{
 		name: 'Nate',
-		teams: ['Philadelphia', 'Jacksonville', 'N.Y. Jets', 'Green Bay', 'Denver', 'Carolina']
+		teams: ['Denver', 'Golden St.', 'Oklahoma City', 'Utah', 'San Antonio']
 	},
 	{
 		name: 'Bob',
-		teams: [
-			'San Francisco',
-			'New Orleans',
-			'L.A. Chargers',
-			'Cleveland',
-			'Pittsburgh',
-			'N.Y. Giants'
-		]
+		teams: ['Milwuakee', 'Cleveland', 'Minnesota', 'Houston', 'Chicago']
 	},
 	{
 		name: 'Tom',
-		teams: ['Cincinnati', 'Dallas', 'Minnesota', 'Atlanta', 'New England', 'L.A. Rams']
+		teams: ['Philadelphia', 'Miami', 'Atlanta', 'Toronto', 'Portland']
 	},
 	{
 		name: 'Carter',
-		teams: ['Kansas City', 'Seattle', 'Baltimore', 'Tennessee', 'Washington', 'Houston']
+		teams: ['Phoenix', 'L.A. Lakers', 'L.A. Clippers', 'Brooklyn', 'Charlotte']
+	},
+	{
+		name: 'Matt',
+		teams: ['Memphis', 'Dallas', 'Orlando', 'New Orleans', 'Washington']
 	}
 ];
